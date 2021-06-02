@@ -1,0 +1,44 @@
+
+input 
+{
+    margin-bottom: 15px;
+}
+
+.left {
+    text-align: left;
+    margin-bottom: 25px;
+    border: solid black 5px;
+    padding : 5px
+  }
+  
+  .left, .right { 
+    width: 45%; 
+    margin:5px; 
+    padding: 1em; 
+  
+     } 
+  
+  .left  { float:left;  }
+  .right { float:right; }
+  
+.newTodoDiv 
+{
+  border: solid black 1px;
+  margin: 10px;
+}
+
+.newTodoDiv input
+{
+  margin: 5px;
+}
+
+.newPostDiv
+{
+  border: solid black 1px;
+  margin: 10px;
+}
+
+.newPostDiv input
+{
+  margin: 5px;
+}

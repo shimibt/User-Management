@@ -1,0 +1,35 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { margin: 1rem; }
+
+.usersdiv { flex: 1; }
+
+.usersdiv
+{
+    text-align: left;
+    margin-bottom: 25px;
+    padding : 5px;
+}
+
+
+.hiddenDiv
+{
+    margin: 10px;
+    border: solid black 1px;
+    background-color: lightgray;
+}
+
+input
+{
+    margin-right: 1px;
+}
+
+#updateBtn
+{
+    float: right;
+    margin-right: 15px;
+}
+
+#deleteBtn
+{
+    margin-left: 15px;
+}
